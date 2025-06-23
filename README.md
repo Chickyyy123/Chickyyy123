@@ -1,62 +1,44 @@
-# 👋 Hi, I'm Chickyyy123!
+# Hey there! 👋 I'm Kimhak
 
-Welcome to my GitHub! I'm a passionate web developer and student who loves building websites with **HTML**, **CSS**, **JavaScript**, **ReactJS**, **WordPress**, and **Webflow**. I'm currently learning **Python** and exploring **Odoo development**.
+Just a web dev student trying to turn coffee ☕ into clean code 💻 and cool projects 🎨.
 
----
-
-## 💼 Projects Highlight
-
-Here are some of my favorite works:
-
-### 📦 E-commerce Templates
-- 🛒 [Shoe_Ecommerce.github.io](https://chickyyy123.github.io/Shoe_Ecommerce.github.io)
-- 👕 [shirt_ecommerce.github.io](https://chickyyy123.github.io/shirt_ecommerce.github.io)
-- 👟 [shoes_ecommerce.github.io](https://chickyyy123.github.io/shoes_ecommerce.github.io)
-
-### 🎓 Study Projects
-- 📐 [Rupp-Layout](https://github.com/Chickyyy123/Rupp-Layout) – HTML/CSS layout for students
-- 🧪 [WebLab](https://github.com/Chickyyy123/WebLab)
-- 🗓️ [schedule](https://github.com/Chickyyy123/schedule)
-
-### ⚛️ ReactJS Practice Projects
-- 🧰 [kilo_it_project3.github.io](https://chickyyy123.github.io/kilo_it_project3.github.io)
-- 📱 [kilo_it_project2.github.io](https://chickyyy123.github.io/kilo_it_project2.github.io)
-
-### 🌐 WordPress Projects
-- 🪑 [debuyoffice.com](https://debuyoffice.com/)
-- 💸 [definhub.com](https://definhub.com/)
-
-### ✨ Webflow Projects
-- 🖥️ [debuycambodia.com](https://www.debuycambodia.com/)
+I love playing around with **HTML**, **CSS**, **JavaScript**, and lately, diving into **ReactJS**, **WordPress**, **Webflow**, and **Python**. I'm also exploring the magical world of **Odoo** and ERP systems!
 
 ---
 
-## 🧠 Skills
+## 🌟 What I'm Working on Right Now
 
-- 🧩 HTML5 / CSS3
-- 🌀 JavaScript (Basics)
-- 🌐 Git & GitHub
-- 🐍 Python (Learning)
-- 🧱 Odoo (Beginner)
-- 🖋️ WordPress
-- 🖼️ Webflow
-- 🌍 Hostinger (Domain & DNS)
+- Learning Python and Odoo to automate the boring stuff 🐍
+- Completing [definhub.com](https://definhub.com/) with WordPress
+- Building my personal site at [hakdailypost.com](https://hakdailypost.com/) to showcase projects and blogs
+- Creating some fun web tools just to experiment 🧪
+- Dreaming and planning how to build [sabayshop24](#) as my own eCommerce startup 🛍️
 
 ---
 
-## 📈 GitHub Stats
+## 🛠️ Tech I’m Cozy With
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chickyyy123&show_icons=true&theme=dark" />
-</p>
+- 🍞 HTML & CSS (my bread and butter)
+- ✨ JavaScript (with a sprinkle of React)
+- 🐍 Python (still learning, but loving it!)
+- 🖋️ WordPress & Webflow magic
+- 🌍 Hosting & Domain management (with Hostinger)
 
 ---
 
-## 📫 Let's Connect
+## 📚 Fun Little Projects to Check Out
+
+- 🖥️ [debuycambodia.com](https://debuycambodia.com/) — Company profile built with Webflow
+- 🖥️ [debuyoffice.com](https://debuyoffice.com/) — WordPress site for office furniture
+- 🖥️ [definhub.com](https://definhub.com/) — WordPress site focused on financial literacy
+
+---
+
+## 📫 Let's Chat!
 
 - 💬 Telegram: [Heang Kimhak](https://t.me/HeangKimhak)
 - 📧 Email: hakdailypost@gmail.com
 
 ---
 
-🛠️ *“Keep building, keep learning.”*
+*“Code with passion, learn with joy, and build with heart.”* 💖
