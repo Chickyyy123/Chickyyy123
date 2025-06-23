@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://photos.google.com/photo/AF1QipOZaQgarVWJqht3MC68Otd-Oj19JfSSKAA0g57c" alt="Banner" width="100%" />
+</p>
+
+
 # Hey there! 👋 I'm Kimhak
 
 Just a web dev student trying to turn coffee ☕ into clean code 💻 and cool projects 🎨.
