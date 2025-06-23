@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="https://github.com/Chickyyy123/Chickyyy123/blob/main/banner.jpeg" alt="Banner" width="100%" />
+  <img src="https://github.com/Chickyyy123/Chickyyy123/blob/main/banner.jpeg" 
+       alt="👋 Hi there! I'm Kimhak" 
+       title="👋 Hi there! I'm Kimhak" 
+       style="max-width: 100%;">
 </p>
+
 
 
 # Hey there! 👋 I'm Kimhak
