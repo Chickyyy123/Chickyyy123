@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://photos.google.com/photo/AF1QipOZaQgarVWJqht3MC68Otd-Oj19JfSSKAA0g57c" alt="Banner" width="100%" />
+  <img src="https://github.com/Chickyyy123/Chickyyy123/blob/main/banner.jpeg" alt="Banner" width="100%" />
 </p>
 
 
